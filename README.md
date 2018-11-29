@@ -1,4 +1,4 @@
-tiny-spring
+tiny-spring2
 =======
 
 >A tiny IoC container refer to Spring.
